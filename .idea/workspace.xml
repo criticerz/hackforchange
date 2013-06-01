@@ -4,6 +4,7 @@
     <list default="true" id="a0c0a5f8-fcdc-4174-bfa3-6fc223aa79e4" name="Default" comment="" />
     <ignored path="hackforchange.iws" />
     <ignored path=".idea/workspace.xml" />
+    <file path="/Gemfile" changelist="a0c0a5f8-fcdc-4174-bfa3-6fc223aa79e4" time="1370114570501" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +27,7 @@
       <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="14" selection-start="170" selection-end="170" vertical-scroll-proportion="0.16021362">
+            <state line="24" column="18" selection-start="539" selection-end="539" vertical-scroll-proportion="0.48064086">
               <folding />
             </state>
           </provider>
@@ -361,7 +362,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="14" selection-start="170" selection-end="170" vertical-scroll-proportion="0.16021362">
+        <state line="24" column="18" selection-start="539" selection-end="539" vertical-scroll-proportion="0.48064086">
           <folding />
         </state>
       </provider>
