@@ -1,4 +1,8 @@
 Hackforchange::Application.routes.draw do
+
+  get '/fires/index'
+  get '/fires/show_map'
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
